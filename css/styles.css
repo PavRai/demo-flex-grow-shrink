@@ -41,3 +41,7 @@ section:only-child {
     background-color: whitesmoke;
     color: darkslategray;
 }
+
+section {
+    flex-grow: 1;
+}
